@@ -1,0 +1,44 @@
+h1 {font-weight: bold}
+h1 {text-align: center}
+h1 {font-size: 50px}
+h1 {font-family: Arial, Helvetica, sans-serif}
+
+h2 {font-weight: bold}
+h2 {text-align: center}
+h2 {font-size: 40px}
+h2 {text-decoration: underline}
+h2 {font-family: Arial, Helvetica, sans-serif}
+
+h3 {font-weight: bold}
+h3 {text-align: center}
+h3 {font-size: 30px}
+h3 {font-family: Arial, Helvetica, sans-serif}
+
+p {text-align: center}
+p {font-family: Arial, Helvetica, sans-serif}
+
+ul {text-align: center}
+ul {font-family: Arial, Helvetica, sans-serif}
+
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ul {list-style-position: inside}
+ul {display: inline}
+ul {list-style-type: none}
+
+#lineup {font-weight: bold}
+#lineup {font-size: 20px}
+
+#vid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#top {color: red}
